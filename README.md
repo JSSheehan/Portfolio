@@ -1,5 +1,5 @@
 # Scott Sheehan
-*Professional Data Scientist*
+**Professional Data Scientist**
 
 
 *Bachelors of Science in Applied Mathematics and Statistics, Johns Hopkins University, Class of 2016*
